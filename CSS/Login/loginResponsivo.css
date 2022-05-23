@@ -34,7 +34,7 @@
     }
     .mostra-senha{
         left: 19.5rem;
-        top: -2.3rem;
+        top: -3.1rem;
     }
     .input-botao{
         width: 21.436rem;
@@ -114,6 +114,9 @@
         margin-left: 5rem;
         align-self: flex-end;
     }
+    .mostra-senha{
+        left: 93%;
+    }
 }
 
 @media (min-width:1520px){
@@ -140,6 +143,6 @@
         left: 28vw;
     }
     .texto__intro{
-        left: 12.5vw;
+        left: 7.5vw;
     }
 }
